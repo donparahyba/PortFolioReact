@@ -4,7 +4,7 @@
     "imageSrc": "projects/project.png",
     "description": "Portfólio que destaca meus projetos, habilidades e experiências de forma visual e atraente.",
     "skills": ["HTML", "CSS", "Javascript", "React", "Node"],
-    "demo": "https://github.com/donparahyba/PortFolioReact.git"
+    "demo": "https://www.example.com"
   },
   {
     "title": "Escolha Calabreso",
@@ -14,6 +14,13 @@
     "demo": "https://github.com/donparahyba/EscolhaCalabreso.git"
   },
   {
+    "title": "Mx. Mi",
+    "imageSrc": "projects/mxmi.png",
+    "description": "Bot que utiliza a API do Discord para interações simples.",
+    "skills": ["Javascript", "Node", "Discord.js"],
+    "demo": "https://github.com/donparahyba/Pong2405.git"
+  },
+  {
     "title": "Pong",
     "imageSrc": "projects/Pong.png",
     "description": "Programa que reproduz o clássico jogo de Pong, onde dois jogadores disputam por pontos.",
@@ -21,10 +28,10 @@
     "demo": "https://github.com/donparahyba/Pong2405.git"
   },
   {
-    "title": "Mx. Mi",
-    "imageSrc": "projects/mxmi.png",
-    "description": "Bot que utiliza a API do Discord para interações simples.",
-    "skills": ["Javascript", "Node", "Discord.js"],
-    "demo": "https://github.com/donparahyba/MxMiBot.git"
+    "title": "iwakurasan",
+    "imageSrc": "projects/iwakurasan.png",
+    "description": "Gerador de posts para Bluesky utilizando Gemini",
+    "skills": ["Python", "IA"],
+    "demo": "https://github.com/donparahyba/iwakurasan.git"
   }
 ]
