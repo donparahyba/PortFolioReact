@@ -25,6 +25,6 @@
     "imageSrc": "projects/mxmi.png",
     "description": "Bot que utiliza a API do Discord para interações simples.",
     "skills": ["Javascript", "Node", "Discord.js"],
-    "demo": "https://github.com/donparahyba/MxMiBot"
+    "demo": "https://github.com/donparahyba/MxMiBot.git"
   }
 ]
