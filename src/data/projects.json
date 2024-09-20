@@ -4,7 +4,7 @@
     "imageSrc": "projects/project.png",
     "description": "Portfólio que destaca meus projetos, habilidades e experiências de forma visual e atraente.",
     "skills": ["HTML", "CSS", "Javascript", "React", "Node"],
-    "demo": "https://www.example.com"
+    "demo": "https://github.com/donparahyba/PortFolioReact.git"
   },
   {
     "title": "Escolha Calabreso",
@@ -18,7 +18,7 @@
     "imageSrc": "projects/mxmi.png",
     "description": "Bot que utiliza a API do Discord para interações simples.",
     "skills": ["Javascript", "Node", "Discord.js"],
-    "demo": "https://github.com/donparahyba/Pong2405.git"
+    "demo": "https://github.com/donparahyba/MxMiBot.git"
   },
   {
     "title": "Pong",
